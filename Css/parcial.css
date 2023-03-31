@@ -1,0 +1,90 @@
+.divPadre {
+
+    display: flex;
+   
+}
+
+.divizquierdo {
+    display: flex;
+    width: 40%;
+    
+    flex-direction: column;
+    margin-top: ;
+
+}
+
+
+
+.divcentral {
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+}
+
+.imagencentro {
+    display: flex;
+    margin-top: ;
+}
+
+.imagencentro2 {
+    display: flex;
+    margin-top: ;
+}
+
+
+.divderecho {
+    display: flex;
+    width: 20%;
+    
+    text-align: left;
+    
+}
+
+li {
+    list-style: none;
+}
+
+.circulo {
+    height: 45px;
+    width: 45px;
+    background-color: #2705a0;
+    border-radius: 50%;
+    display: inline-block;
+    flex-direction: column;
+  }
+
+  .contenedor {
+    display: flex;
+    flex-direction: column;
+    padding: 3px;
+  }
+.circulo2 {
+    height: 45px;
+    width: 45px;
+    background-color: #cf2281;
+    border-radius: 50%;
+    display: inline-block;
+    flex-direction: column;
+    
+  }
+  
+  .circulo3 {
+    height: 45px;
+    width: 45px;
+    background-color: #6d4906;
+    border-radius: 50%;
+    display: inline-block;
+    flex-direction: column;
+    
+  }
+  
+  .circulo4 {
+    height: 45px;
+    width: 45px;
+    background-color: #3b3a3d;
+    border-radius: 50%;
+    display: inline-block;
+    flex-direction: column;
+    
+  }
+  
